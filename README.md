@@ -1,1 +1,1 @@
-[![Build Status](https://travis-ci.org/KrizaMoradiya/github-api-test.svg?branch=main)](https://travis-ci.org/KrizaMoradiyagithub-api-test)
+[![Build Status](https://travis-ci.org/your_username/your_repo.svg?branch=HW05a_Mocking)](https://travis-ci.org/your_username/your_repo)

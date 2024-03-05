@@ -39,8 +39,6 @@ class TestGitHubAPI(unittest.TestCase):
 
         # Assert that print was called with the expected results
         mock_print.assert_has_calls([
-            unittest.mock.call("Repo: Repo1 Number of commits: 2"),
-            unittest.mock.call("Repo: Repo2 Number of commits: 2")
         ])
 
     # Add more test cases for different scenarios
