@@ -2,6 +2,7 @@ language: python
 python:
   - "3.5"
 install:
-  - pip install requests
+  - pip install -r requirements.txt  # Add any necessary dependencies
+
 script:
-  - python test_github_api.py
+  - python -m unittest discover tests
